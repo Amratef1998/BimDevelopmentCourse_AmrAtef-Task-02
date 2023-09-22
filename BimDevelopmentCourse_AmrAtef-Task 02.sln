@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BimDevelopmentCourse_AmrAtef-Task 02", "BimDevelopmentCourse_AmrAtef-Task 02.csproj", "{550F007E-6C1D-45D2-99C6-DE6DC3D3BA43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{550F007E-6C1D-45D2-99C6-DE6DC3D3BA43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{550F007E-6C1D-45D2-99C6-DE6DC3D3BA43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{550F007E-6C1D-45D2-99C6-DE6DC3D3BA43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{550F007E-6C1D-45D2-99C6-DE6DC3D3BA43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78B34D1F-55E1-457D-B19E-2C0E8230837B}
+	EndGlobalSection
+EndGlobal
